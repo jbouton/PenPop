@@ -1,0 +1,61 @@
+
+penpack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+paper
+  rotate: false
+  xy: 1, 327
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+iceFlow
+  rotate: false
+  xy: 1, 190
+  size: 980, 135
+  orig: 980, 135
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 1, 59
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: false
+  xy: 803, 863
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1, 1
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+pen
+  rotate: false
+  xy: 983, 887
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+armLeft
+  rotate: false
+  xy: 132, 179
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+armRight
+  rotate: false
+  xy: 803, 852
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,54 @@
+
+penpop.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+paper
+  rotate: false
+  xy: 1, 339
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+iceFlow
+  rotate: false
+  xy: 1, 202
+  size: 980, 135
+  orig: 980, 135
+  offset: 0, 0
+  index: -1
+pen
+  rotate: false
+  xy: 1, 36
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: false
+  xy: 803, 875
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+armLeft
+  rotate: false
+  xy: 1, 1
+  size: 86, 33
+  orig: 86, 33
+  offset: 0, 0
+  index: -1
+armRight
+  rotate: false
+  xy: 167, 167
+  size: 86, 33
+  orig: 86, 33
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 803, 817
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
